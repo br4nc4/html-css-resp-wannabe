@@ -177,7 +177,22 @@
         margin-bottom: 5rem;
     }
 
-    .lessons.col:nth-child(1) .card{
-        padding-bottom: 4rem;
+    .lessons .card > p {
+        margin-bottom: 4rem;
     }
+
+    .steps{
+        margin: 0;
+        padding-top: 3rem;
+        padding-bottom: 0;
+    }
+
+    .col-left img{
+        margin-bottom: 5rem;
+    }
+
+    .why-us{
+        margin-top: 4rem;
+    }
+    
 }
