@@ -172,4 +172,12 @@
     .text-center {
         text-align: center;
     }
+
+    .steps .col p {
+        margin-bottom: 5rem;
+    }
+
+    .lessons.col:nth-child(1) .card{
+        padding-bottom: 4rem;
+    }
 }
