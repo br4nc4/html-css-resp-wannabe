@@ -150,3 +150,26 @@
         text-align: center;
     }
 }
+
+@media screen and (max-width: 480px) {
+    .container {
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+
+    .col{
+        flex-basis: 100%;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    .row {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .text-center {
+        text-align: center;
+    }
+}
